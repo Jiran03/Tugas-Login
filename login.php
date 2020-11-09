@@ -6,9 +6,10 @@
     <title>Document</title>
 </head>
 <body>
+
     <form action="beranda.php" method="POST">
-        <input type="text" name="nama" id="nama" placeholder="masukan nama"><br>
-        <input type="email" name="email" id="email" placeholder="masukkan email"><br>
+        <input type="text" name="nama" id="nama" placeholder="jiran"><br>
+        <input type="email" name="email" id="email" placeholder="jiran@mail"><br>
         <input type="time" name="jam" id="jam"><br>
         <input type="date" name="tanggal" id="tanggal"><br><br>
         <input type="submit" value="Masuk">

@@ -8,7 +8,7 @@
 <body>
 
     <h1>Maaf Inputan Anda belum lengkap</h1><br>
-    <a href="./login.html">Kemballi Login</a>
+    <a href="./login.php">Kembali Login</a>
 
 </body>
 </html>
